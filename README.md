@@ -1,4 +1,8 @@
 # Multi-Modal-Multi-Label-Classification-Framework-for-AI-Misalignment
+
+![image](https://github.com/ali-almousa/Multi-Modal-Multi-Label-Classification-Framework-for-AI-Misalignment/assets/64105031/595d9007-c554-4e12-817e-b1dec03d911a)
+
+
 The rapid advancement of AI technologies, especially
 within the realm of generative models such as large lan-
 guage models (LLMs) and image generation systems, has
